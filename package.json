@@ -1,0 +1,7 @@
+{
+  "name": "music-comment",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node main.js", "check": "node --check main.js && node --check template.js" },
+  "dependencies": { "express": "^4.21.2", "mysql2": "^3.11.5" }
+}
